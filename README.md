@@ -1,2 +1,2 @@
 # ASK-projekt
-Projekt na architekturę systemów komputerowych
+###Projekt na architekturę systemów komputerowych
