@@ -1,2 +1,2 @@
-# ASK-projekt
+# 8086
 Projekt na architekturę systemów komputerowych
